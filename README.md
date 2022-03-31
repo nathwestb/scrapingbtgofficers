@@ -1,2 +1,2 @@
 # scrapingbtgofficers
-Scraping dos Escritórios e Sócios do BTG Pactual
+Scraping dos Escritórios de Investimentos e Sócios do BTG Pactual
